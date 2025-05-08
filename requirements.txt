@@ -1,0 +1,14 @@
+# Core dependencies
+numpy==1.24.3
+pandas==2.0.3
+tensorflow==2.13.0
+streamlit==1.25.0
+plotly==5.15.0
+
+# Twilio for SMS alerts
+twilio==8.5.0
+python-dotenv==1.0.0
+
+# Additional utilities
+scikit-learn==1.3.0
+joblib==1.3.1 
